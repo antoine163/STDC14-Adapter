@@ -6,9 +6,9 @@
 	(paper "A4")
 	(title_block
 		(title "STDC14 Adapter")
-		(date "2024-03-16")
+		(date "2024-03-31")
 		(rev "1.0")
-		(company "AM163")
+		(company "antoine163")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_ST_STDC14"
